@@ -1,0 +1,4 @@
+module Nuklear {
+    umbrella header "Sources/include/Nuklear.h"
+    export *
+}
