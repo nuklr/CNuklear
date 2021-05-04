@@ -5,7 +5,6 @@
 #define NK_INCLUDE_FONT_BAKING
 #define NK_INCLUDE_DEFAULT_FONT
 #define NK_BUTTON_TRIGGER_ON_RELEASE
-#define NK_LIB
 
 /*
  /// # Nuklear
@@ -224,9 +223,9 @@
  /// ## API
  ///
  */
-#ifndef NK_SINGLE_FILE
-#define NK_SINGLE_FILE
-#endif
+//#ifndef NK_SINGLE_FILE
+//#define NK_SINGLE_FILE
+//#endif
 
 #ifndef NK_NUKLEAR_H_
 #define NK_NUKLEAR_H_
