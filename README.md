@@ -1,2 +1,2 @@
 # Nuklear
-Build [nuklear](https://github.com/vurtun/nuklear) as a Swift shared library.
+Build [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) as a Swift library.
